@@ -1,4 +1,5 @@
 {
   "pushCert": "certificate version 0.1\npusher 35D38596FD64DA26 1536583988 +0100\npushee ssh://review.carbonrom.org:29418/CarbonROM/android_device_sony_honami\nnonce 1536583983-6F18E85A597B8434091686FFEC99A4C1C826E53A\n\n0000000000000000000000000000000000000000 9539c715616f257465f910a080539514ceedc4a0 refs/for/cr-6.1\n-----BEGIN PGP SIGNATURE-----\n\niQGzBAABCgAdFiEEgUc9pp3k6OArvZvQNdOFlv1k2iYFAluWaTQACgkQNdOFlv1k\n2iYvkwwA0gGC60mwIudVvDhLfS+sh217WsvHEnfmT5hEtLRFxJl9k8ASipAXp6aD\no5H+Y2WXf5DO+XQevKfMT11reW2Bh5lcM1XJm0UvonoXLfoq9CzbTUURI1jiabn0\nXLgbBmcsCLLOmKuW9kDo5CTE5tl7kqo31MvoCAb/h1QyZjVVybpJQhUlzDOPp5E8\njpgyzFVQNHuZyn1y0pWxAs/sOrgvmy4SOBLNZ4Y5avirWCerJRwgxHtOVIXnAUUQ\nu2WAlKx4d3cTJ2pqOCvzQq6s5eyKY1F9azWUioiJk8OTxcjXWG7AISClRW7dcfMx\nJu4tquG3SVGgrCv/gKoIb9Yfd84BQk8lmR6e7tex0ihJLNUnZpi3jP5Znu33bGlB\n+C3ncAbKld56akift3r1PFDaJPu5twyFvrFIVnxHqoqGuWyQGL7NAJoBiJ9May2z\nv0j/kjluOers/awTs5nBb2aqCufW/BvzalZfcIDxuyGiaiBaWWe2M68WiQbxdsiG\nKd/VM8Vv\n\u003dFQqv\n-----END PGP SIGNATURE-----\n",
-  "comments": []
+  "comments": [],
+  "submitRequirementResults": []
 }
